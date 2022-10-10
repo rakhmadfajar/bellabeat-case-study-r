@@ -1,6 +1,6 @@
 ---
 title: "Study Case - Bellabet Product Analysis"
-output: github_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
